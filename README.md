@@ -1,7 +1,7 @@
 # gmall2020
 Springboot+dubbo的模拟分布式商城微服务demo微服务项目
 
-web项目
+## web项目
 
 1、gmall-admin-web
 
@@ -11,7 +11,7 @@ web项目
 
 前台web项目，提供商品检索、商品具体信息查询、用户登录、在线及离线购物车、订单创建及支付等Controller层功能
 
-微服务项目
+## 微服务项目
 
 1、gmall-ums
 
