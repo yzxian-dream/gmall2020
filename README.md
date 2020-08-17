@@ -2,6 +2,7 @@
 Springboot+dubbo的模拟分布式商城微服务demo微服务项目
 
 web项目
+
 1、gmall-admin-web
 
 后台web项目，提供管理员注册，登录校验，商品上下架到es，及文件上传到oss等Controller层功能
